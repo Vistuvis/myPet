@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class Text_set : MonoBehaviour {
 
-	public float Pos_X_Percent;		//gets the distance from the center of screen
+	public float Pos_X_Percent;		//gets the distance from the center of screen as a percentage; can be negative
 	public float Pos_Y_Percent;		//""
 	public int layer;
 
